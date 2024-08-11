@@ -9,6 +9,6 @@ No Rio de Janeiro, a saúde mental é uma preocupação crescente, especialmente
 ## Escopo do Projeto
 O projeto "Conexão Saúde Mental" terá como escopo:
 
-1. **Desenvolvimento de uma Plataforma Digital**: Criar um aplicativo e um site que conectem mulheres a profissionais de saúde mental, permitindo agendamentos de consultas online, chats e videoconferências.
+1. **Desenvolvimento de uma Plataforma Digital**: Criar um assistente virtual ou um aplicativo que possa conectar mulheres a profissionais de saúde mental e serviços coletivos relacionada a promoção da saúde mental da mulher, permitindo agendamentos de consultas online, acesso a endereços, chats e videoconferências.
    
 2. **Banco de Dados de Profissionais**: Criar um banco de dados de psicólogos, psiquiatras e terapeutas especializados em saúde da mulher, com informações sobre suas áreas de atuação, disponibilidade e avaliações
