@@ -12,3 +12,5 @@ O projeto "Conexão Saúde Mental" terá como escopo:
 1. **Desenvolvimento de uma Plataforma Digital**: Criar um assistente virtual ou um aplicativo que possa conectar mulheres a profissionais de saúde mental e serviços coletivos relacionada a promoção da saúde mental da mulher, permitindo agendamentos de consultas online, acesso a endereços, chats e videoconferências.
    
 2. **Banco de Dados de Profissionais**: Criar um banco de dados de psicólogos, psiquiatras e terapeutas especializados em saúde da mulher, com informações sobre suas áreas de atuação, disponibilidade e avaliações
+
+3. [Miro - Brief Brainstorm - conexao-saude-mental](https://miro.com/app/board/uXjVKhzBZns=/?share_link_id=750996168078)
